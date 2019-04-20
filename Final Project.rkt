@@ -3,7 +3,7 @@
 (require loudhum)
 
 ; PROJECT GOAL: DEVELOP A SUMMARY GENERATOR
-; Input: An article from the given data set
+; Input: An article from the given data set and the length of the summary users want to have (length = number of sentences) 
 ; Output: A Summary of n sentences 
 
 
